@@ -1,7 +1,7 @@
 ### Владислав Головин
 ---
 ### GitHub Search
-https://EmelyanovI.github.io/github_search/
+[Демонстрация проекта](https://emelyanovi.github.io/github_search/)
 ---
 ##### Функционал
 - **Автокомплит** - предложение вариантов при вводе ключевых слов, с использованием debounce для ортимизации запросов.
